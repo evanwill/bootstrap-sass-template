@@ -1,0 +1,11 @@
+---
+# bootstrap generated from bootstrap-rubygem
+# see, https://github.com/twbs/bootstrap-rubygem/blob/main/README.md
+---
+@charset "utf-8";
+
+@use "bootstrap";
+
+@use "template/template";
+/* pull in custom styles to override everything else */
+@use "template/custom";
