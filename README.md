@@ -2,9 +2,10 @@
 
 ## uidaho customizations
 
-- wider containers
-- container x padding - 3rem
-- theme colors
+- wider containers - $container-max-widths
+- container x padding - 3rem on xl, 1.5rem on sm - add px-lg-5 on main page container
+- theme colors - $theme-colors
+- fonts - https://www.uidaho.edu/_next/static/css/a925ed7e05366a8f.css
 
 --------
 
